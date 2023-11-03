@@ -1,27 +1,27 @@
 <p align="center">
-   <img src="https://media.giphy.com/media/YKdvSD6cSSYBGCNUJz/giphy.gif" alt="currency" width="350"/>
+   <img src="https://media.giphy.com/media/6kzosxOjoPMNJYmSMF/giphy.gif" alt="currency" width="350"/>
 </p>
 
 <p align="right">
-   <img src="https://media.giphy.com/media/BnXU1WJCrcEpie46CZ/giphy.gif" alt="currency" width="180"/>
+   <img src="https://media.giphy.com/media/UfzB7gIqEIpLQs4Ajr/giphy.gif" alt="currency" width="180"/>
 </p>
 
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/currency-converter?color=fcba03">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/pdf-generator?color=f20f34">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/currency-converter?color=fcba03">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/pdf-generator?color=f20f34">
 
   <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/projeto-pokemon?color=008B8B"> -->
 
- <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-pokemon?color=fcba03">
+ <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/pdf-generator?color=f20f34">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/projeto-pokemon?color=fcba03" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/pdf-generator?color=f20f34" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/projeto-pokemon?color=fcba03" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/pdf-generator?color=f20f34" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/currency-converter?color=fcba03" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/pdf-generator?color=f20f34" /> 
 </p>
 
 <p align="center">
@@ -32,23 +32,23 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://currency-converter-swart-five.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
 
 ## :dart: About
 
-<h4 align="center"> Currency Converter 💵 </h4>
+<h4 align="center">pdf generator  </h4>
 
 <p align="center">
-   <img src="/public/converter.gif" alt="pokemon" width="850"/>
+   <img src="/public/pdf.gif" alt="pdf" width="850"/>
 </p>
 
 <hr/>
 
 <p align="left">
-  o CurrencyConverter é uma aplicação de conversão de moedas em tempo real, que fornece aos usuários informações atualizadas sobre as taxas de câmbio e permite que eles convertam valores entre diferentes moedas de forma rápida e fácil. É um exemplo simples de um aplicativo React que interage com uma API externa para fornecer funcionalidades úteis aos usuários.
+ This project is a simple web application that allows users to create and download personalized PDF files. It uses front-end technologies, in particular, the React library, and the pdfMake library to generate the PDF
 </p>
 
 ## :sparkles: Features
@@ -73,9 +73,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/currency-converter.git
+$ git clone https://github.com/agostinhomarcia/pdf-generator.git
 # Access
-$ cd currency-converter
+$ cd pdf-generator
 # The server will initialize in the <http://127.0.0.1:5500/index.html>
 ```
 
@@ -86,7 +86,7 @@ This project is under the [MIT license](./License).
 Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 <p align="center">
-   <img src="https://media.giphy.com/media/OePUHiZSZwRmzZJHtI/giphy.gif" alt="currency" width="350"/>
+   <img src="https://media.giphy.com/media/fVcdr0hp33FmUB3oQk/giphy.gif" alt="currency" width="350"/>
 </p>
 
 &#xa0;
